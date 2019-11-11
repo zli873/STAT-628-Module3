@@ -1,1 +1,8 @@
+In code folder, we have 3 subfolders: data preprocessing, feature extraction and model algorithms.
 
+In data preprocessing, we have 3 parts: data cleaning, data visualization and text cleaning.
+Data cleaning is to clean out all the bars on the yelp, data visualization is to do some visualized figures and tables to show how data looks like, and text cleaning is to clean the reviews and tips.
+
+In feature extraction, we have 2 parts: business attrbutes analysis and tfidf for high frequency words.
+
+In model algorithms, we have 3 models: linear regression on business attributes, topic model on bars' reviews and score model for each business by state.
