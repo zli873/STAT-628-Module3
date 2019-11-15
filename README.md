@@ -15,6 +15,7 @@ In this project, our goal is to use the data provided by the Yelp, which include
 In the github, we have 6 folders in total, they are data, image, slides, code, shiny and summary.
 
 ## Data
+Since the data size is too big, we put a google drive link and all the data we use in this project have been uploaded on the web.
 
 ## Image
 In image file, we put all the tables and figures we use in the slides 1, slides 2 and summary report in it.
