@@ -33,7 +33,9 @@ For feature extraction, we have business attributes ananlysis and TFIDF for high
 For model algorithms, we have 3 files in total: linear regression, topic model and score model.
 
 ## Shiny
-In shiny, we put our shiny app link and some codes for it.
+In shiny, we put our shiny app link and some codes for it. And here is our shiny link.
+
+https://ylingbfcalculator.shinyapps.io/Yelp_data_analysis/
 
 ## Summary
 
