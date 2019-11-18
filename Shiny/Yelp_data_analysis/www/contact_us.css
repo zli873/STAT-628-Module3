@@ -1,0 +1,89 @@
+html,body{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+/* overriding bootstrap */
+.container-fluid,
+.navbar2{
+    width: 100%;
+    padding: 0 !important;
+    margin:0 !important;
+}
+
+/* layout */
+.landing-wrapper{}
+
+.landing-wrapper .back{
+    background-color: #000000;
+}
+
+
+.landing-wrapper .foreground-content{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%,-10%);
+    display: flex;
+		text-align:center;
+}
+
+.landing-wrapper .foreground-content .foreground-text{
+    width: 100%;
+    padding: 7.5%;
+    background-color: transparent;
+		white-space: nowrap;
+		text-align:center;
+}
+
+.landing-wrapper .foot{
+  position: absolute;
+  top:  75%;
+  left: 50%;
+  transform: translate(-50%,0);
+}
+
+.landing-wrapper .foot img{
+  display: block;
+  height: 180px;
+  width: 260px;
+}
+
+.landing-wrapper .foot p{
+	font-size: 2rem;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  color: #FFFFFF
+}
+
+.landing-wrapper .icon{
+  position: absolute;
+  top:  70%;
+  left: 45%;
+  transform: translate(-45%,0);
+}
+.landing-wrapper .icon2{
+  position: absolute;
+  top:  70%;
+  left: 48%;
+  transform: translate(-48%,0);
+}
+.landing-wrapper .icon3{
+  position: absolute;
+  top:  70%;
+  left: 51%;
+  transform: translate(-51%,0);
+}
+
+.landing-wrapper .icon4{
+  position: absolute;
+  top:  70%;
+  left: 54%;
+  transform: translate(-51%,0);
+}
+
+.landing-wrapper .foreground-content .foreground-text h3{
+	font-size: 3rem;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  color: #FFFFFF
+}

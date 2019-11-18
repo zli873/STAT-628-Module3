@@ -1,0 +1,82 @@
+html,body{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.container-fluid,
+.navbar{
+    width: 100%;
+    padding: 0 !important;
+    margin:0 !important;
+}
+
+/* layout css */
+.landing-wrapper{}
+
+.landing-wrapper .exploration-back{
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+	background-color: #000000;
+  padding: 0;
+}
+
+.landing-wrapper .suggestions{}
+
+  .landing-wrapper .suggestions .title{
+    position: absolute;
+    top: 50px;
+    left: 10px;
+  }
+
+  .landing-wrapper .suggestions .title2{
+    position: absolute;
+    top: 120px;
+    left: 10px;
+  }
+
+  .landing-wrapper .suggestions .Input{
+    position: absolute;
+    top: 190px;
+    left: 10px;
+  }
+
+  .landing-wrapper .suggestions .out1{
+    position: absolute;
+    top: 260px;
+    left: 10px;
+    width: 600px;
+    height: 600px;
+    border-radius: 5px;
+    border-color: gray;
+    border-style: outset;
+  }
+
+
+  .landing-wrapper .suggestions .out2{
+    position: absolute;
+    top: 260px;
+    left: 630px;
+    width: 600px;
+    height: 600px;
+    border-radius: 5px;
+    border-color: gray;
+    border-style: outset;
+  }
+
+
+  .landing-wrapper .suggestions .title h2{
+    font-size: 3rem;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    color: #FFFFFF
+  }
+
+  .landing-wrapper .suggestions .title2 h3{
+    font-size: 2rem;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    color: #FFFFFF
+  }

@@ -1,0 +1,12 @@
+name: Yelp_data_analysis
+title: Yelp_data_analysis
+username:
+account: ylingbfcalculator
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1352943
+bundleId: 2596640
+url: https://ylingbfcalculator.shinyapps.io/Yelp_data_analysis/
+when: 1574047757.85588
+asMultiple: FALSE
+asStatic: FALSE
