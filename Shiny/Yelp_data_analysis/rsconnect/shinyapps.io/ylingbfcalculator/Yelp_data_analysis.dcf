@@ -5,8 +5,8 @@ account: ylingbfcalculator
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 1352943
-bundleId: 2596640
+bundleId: 2598673
 url: https://ylingbfcalculator.shinyapps.io/Yelp_data_analysis/
-when: 1574047757.85588
+when: 1574110387.18815
 asMultiple: FALSE
 asStatic: FALSE

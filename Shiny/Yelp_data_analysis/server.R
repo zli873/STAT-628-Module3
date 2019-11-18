@@ -202,32 +202,32 @@ function(input, output, session){
             "AB" = radioButtons("topic", 
                                 label = em("Topic",style="text-align:center;color:#FFFFFF;font-size:150%"),
                                 choiceNames = list(
-                                    HTML("<font color='white'>Topics 1</font>"),
-                                    HTML("<font color='white'>Topics 2</font>"),
-                                    HTML("<font color='white'>Topics 3</font>"),
-                                    HTML("<font color='white'>Topics 4</font>"),
-                                    HTML("<font color='white'>Topics 5</font>")
+                                    HTML("<font color='white'>Topic 1</font>"),
+                                    HTML("<font color='white'>Topic 2</font>"),
+                                    HTML("<font color='white'>Topic 3</font>"),
+                                    HTML("<font color='white'>Topic 4</font>"),
+                                    HTML("<font color='white'>Topic 5</font>")
                                 ),
                                 choiceValues = c("Topic 1", "Topic 2",
                                                "Topic 3", "Topic 4","Topic 5"), selected = NULL),
             "AZ" = radioButtons("topic", 
                                 label = em("Topic",style="text-align:center;color:#FFFFFF;font-size:150%"),
                                 choiceNames = list(
-                                    HTML("<font color='white'>Topics 1</font>"),
-                                    HTML("<font color='white'>Topics 2</font>"),
-                                    HTML("<font color='white'>Topics 3</font>"),
-                                    HTML("<font color='white'>Topics 4</font>"),
-                                    HTML("<font color='white'>Topics 5</font>")
+                                    HTML("<font color='white'>Topic 1</font>"),
+                                    HTML("<font color='white'>Topic 2</font>"),
+                                    HTML("<font color='white'>Topic 3</font>"),
+                                    HTML("<font color='white'>Topic 4</font>"),
+                                    HTML("<font color='white'>Topic 5</font>")
                                 ),
                                 choiceValues = c("Topic 1", "Topic 2",
                                                      "Topic 3", "Topic 4","Topic 5"), selected = NULL),
             "IL" = radioButtons("topic", 
                                 label = em("Topic",style="text-align:center;color:#FFFFFF;font-size:150%"),
                                 choiceNames = list(
-                                    HTML("<font color='white'>Topics 1</font>"),
-                                    HTML("<font color='white'>Topics 2</font>"),
-                                    HTML("<font color='white'>Topics 3</font>"),
-                                    HTML("<font color='white'>Topics 4</font>")
+                                    HTML("<font color='white'>Topic 1</font>"),
+                                    HTML("<font color='white'>Topic 2</font>"),
+                                    HTML("<font color='white'>Topic 3</font>"),
+                                    HTML("<font color='white'>Topic 4</font>")
                                 ),
                                 choiceValues = c("Topic 1", "Topic 2",
                                                      "Topic 3", "Topic 4"),
@@ -235,82 +235,82 @@ function(input, output, session){
             "NC" = radioButtons("topic",
                                 label = em("Topic",style="text-align:center;color:#FFFFFF;font-size:150%"),
                                 choiceNames = list(
-                                    HTML("<font color='white'>Topics 1</font>"),
-                                    HTML("<font color='white'>Topics 2</font>"),
-                                    HTML("<font color='white'>Topics 3</font>"),
-                                    HTML("<font color='white'>Topics 4</font>")
+                                    HTML("<font color='white'>Topic 1</font>"),
+                                    HTML("<font color='white'>Topic 2</font>"),
+                                    HTML("<font color='white'>Topic 3</font>"),
+                                    HTML("<font color='white'>Topic 4</font>")
                                 ),
                                 choiceValues = c("Topic 1", "Topic 2",
                                                      "Topic 3", "Topic 4"), selected = NULL),
             "NV" = radioButtons("topic",
                                 label = em("Topic",style="text-align:center;color:#FFFFFF;font-size:150%"),
                                 choiceNames = list(
-                                    HTML("<font color='white'>Topics 1</font>"),
-                                    HTML("<font color='white'>Topics 2</font>"),
-                                    HTML("<font color='white'>Topics 3</font>"),
-                                    HTML("<font color='white'>Topics 4</font>"),
-                                    HTML("<font color='white'>Topics 5</font>")
+                                    HTML("<font color='white'>Topic 1</font>"),
+                                    HTML("<font color='white'>Topic 2</font>"),
+                                    HTML("<font color='white'>Topic 3</font>"),
+                                    HTML("<font color='white'>Topic 4</font>"),
+                                    HTML("<font color='white'>Topic 5</font>")
                                 ),
                                 choiceValues = c("Topic 1", "Topic 2",
                                                      "Topic 3", "Topic 4","Topic 5"), selected = NULL),
             "OH" = radioButtons("topic",
                                 label = em("Topic",style="text-align:center;color:#FFFFFF;font-size:150%"),
                                 choiceNames = list(
-                                    HTML("<font color='white'>Topics 1</font>"),
-                                    HTML("<font color='white'>Topics 2</font>"),
-                                    HTML("<font color='white'>Topics 3</font>"),
-                                    HTML("<font color='white'>Topics 4</font>")
+                                    HTML("<font color='white'>Topic 1</font>"),
+                                    HTML("<font color='white'>Topic 2</font>"),
+                                    HTML("<font color='white'>Topic 3</font>"),
+                                    HTML("<font color='white'>Topic 4</font>")
                                 ),
                                 choiceValues = c("Topic 1", "Topic 2",
                                                      "Topic 3", "Topic 4"), selected = NULL),
             "ON" = radioButtons("topic", 
                                 label = em("Topic",style="text-align:center;color:#FFFFFF;font-size:150%"),
                                 choiceNames = list(
-                                    HTML("<font color='white'>Topics 1</font>"),
-                                    HTML("<font color='white'>Topics 2</font>"),
-                                    HTML("<font color='white'>Topics 3</font>"),
-                                    HTML("<font color='white'>Topics 4</font>"),
-                                    HTML("<font color='white'>Topics 5</font>")
+                                    HTML("<font color='white'>Topic 1</font>"),
+                                    HTML("<font color='white'>Topic 2</font>"),
+                                    HTML("<font color='white'>Topic 3</font>"),
+                                    HTML("<font color='white'>Topic 4</font>"),
+                                    HTML("<font color='white'>Topic 5</font>")
                                 ),
                                 choiceValues = c("Topic 1", "Topic 2",
                                                      "Topic 3", "Topic 4","Topic 5"), selected = NULL),
             "PA" = radioButtons("topic",
                                 label = em("Topic",style="text-align:center;color:#FFFFFF;font-size:150%"),
                                 choiceNames = list(
-                                    HTML("<font color='white'>Topics 1</font>"),
-                                    HTML("<font color='white'>Topics 2</font>"),
-                                    HTML("<font color='white'>Topics 3</font>"),
-                                    HTML("<font color='white'>Topics 4</font>")
+                                    HTML("<font color='white'>Topic 1</font>"),
+                                    HTML("<font color='white'>Topic 2</font>"),
+                                    HTML("<font color='white'>Topic 3</font>"),
+                                    HTML("<font color='white'>Topic 4</font>")
                                 ),
                                 choiceValues = c("Topic 1", "Topic 2",
                                                      "Topic 3", "Topic 4"), selected = NULL),
             "QC" = radioButtons("topic",
                                 label = em("Topic",style="text-align:center;color:#FFFFFF;font-size:150%"),
                                 choiceNames = list(
-                                    HTML("<font color='white'>Topics 1</font>"),
-                                    HTML("<font color='white'>Topics 2</font>"),
-                                    HTML("<font color='white'>Topics 3</font>")
+                                    HTML("<font color='white'>Topic 1</font>"),
+                                    HTML("<font color='white'>Topic 2</font>"),
+                                    HTML("<font color='white'>Topic 3</font>")
                                 ),
                                 choiceValues = c("Topic 1", "Topic 2","Topic 3"), selected = NULL),
             "SC" = radioButtons("topic",
                                 label = em("Topic",style="text-align:center;color:#FFFFFF;font-size:150%"),
 
                                 choiceNames = list(
-                                    HTML("<font color='white'>Topics 1</font>"),
-                                    HTML("<font color='white'>Topics 2</font>"),
-                                    HTML("<font color='white'>Topics 3</font>"),
-                                    HTML("<font color='white'>Topics 4</font>"),
-                                    HTML("<font color='white'>Topics 5</font>")
+                                    HTML("<font color='white'>Topic 1</font>"),
+                                    HTML("<font color='white'>Topic 2</font>"),
+                                    HTML("<font color='white'>Topic 3</font>"),
+                                    HTML("<font color='white'>Topic 4</font>"),
+                                    HTML("<font color='white'>Topic 5</font>")
                                 ),
                                 choiceValues = c("Topic 1", "Topic 2",
                                                      "Topic 3", "Topic 4","Topic 5"), selected = NULL),
             "WI" = radioButtons("topic",
                                 label = em("Topic",style="text-align:center;color:#FFFFFF;font-size:150%"),
                                 choiceNames = list(
-                                    HTML("<font color='white'>Topics 1</font>"),
-                                    HTML("<font color='white'>Topics 2</font>"),
-                                    HTML("<font color='white'>Topics 3</font>"),
-                                    HTML("<font color='white'>Topics 4</font>")
+                                    HTML("<font color='white'>Topic 1</font>"),
+                                    HTML("<font color='white'>Topic 2</font>"),
+                                    HTML("<font color='white'>Topic 3</font>"),
+                                    HTML("<font color='white'>Topic 4</font>")
                                 ),
                                 choiceValues = c("Topic 1", "Topic 2",
                                                      "Topic 3", "Topic 4"), selected = NULL)
